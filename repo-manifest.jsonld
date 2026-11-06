@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python/mypy_extensions/commit/df7b7054e3e978cc62717871f16659e51ea8171d",
       "git:hexsha": "df7b7054e3e978cc62717871f16659e51ea8171d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python/mypy_extensions/commit/7f4ac911a26f4840bd073a4f1136e10336494459",
