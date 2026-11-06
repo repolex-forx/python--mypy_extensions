@@ -1,0 +1,11 @@
+{
+  "org": "python",
+  "repo": "mypy_extensions",
+  "versions": [
+    {
+      "commit": "df7b7054e3e978cc62717871f16659e51ea8171d",
+      "tag": "",
+      "parsed_at": "2026-11-06T02:05:02.240522+00:00"
+    }
+  ]
+}
