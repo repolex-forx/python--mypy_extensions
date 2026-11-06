@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "python",
+  "repo": "mypy_extensions",
+  "versions": [
+    {
+      "commit": "df7b7054e3e978cc62717871f16659e51ea8171d",
+      "parsed_at": "2026-11-06T02:02:23.022175+00:00",
+      "filetree": "filetree/df7b7054e3e978cc62717871f16659e51ea8171d.nq.gz",
+      "blobs": [
+        "blob/a6135e8c9b7542498e5fabd8490ab4f3c4bda859.nq.gz",
+        "blob/068d160f87468bcc0be6a5e74698ad78e03ec599.nq.gz",
+        "blob/8a56f3bdae96e84418a3da19f7760e4f7c53e73f.nq.gz",
+        "blob/4b280a9b34ea4323eed15efd8e9df618bd63defb.nq.gz",
+        "blob/ae7ce94c1d297806d4022abeda235e33e74a789b.nq.gz",
+        "blob/800236038d512be623dbc60e28a9d6dadd24ed6c.nq.gz",
+        "blob/6c403427e33a75379886fdb127e53f73399f7ac4.nq.gz",
+        "blob/bdb7786b2322c9d2ab970bbfba8771d6e8774723.nq.gz",
+        "blob/8303af22e679a537965e1f322fa0378dfcdc489d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
